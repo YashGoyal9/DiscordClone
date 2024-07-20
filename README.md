@@ -1,4 +1,5 @@
 This reposiratory contains project created by HTMLand TAILWIND CSS.
+use microsoft edge for better website view 
 
 # DiscordClone
 
